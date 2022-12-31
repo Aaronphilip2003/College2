@@ -1,0 +1,16 @@
+a = int(input("enter value of a:"))
+b = int(input("enter value of b:"))
+c = float(input("enter float value of c:"))
+d = float(input("enter float value of c:"))
+print(a - b)
+print(a * c)
+print(d / 5)
+print(b // c)
+strings = "This is python"
+char = "C"
+multiline_str = """This is
+multiline
+string"""
+print(strings)
+print(char)
+print(multiline_str)
